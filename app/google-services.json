@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817894833788",
+    "firebase_url": "https://realtimelocation-9b831.firebaseio.com",
+    "project_id": "realtimelocation-9b831",
+    "storage_bucket": "realtimelocation-9b831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817894833788:android:c4a8e3d4a474da4b",
+        "android_client_info": {
+          "package_name": "com.example.alfred.realtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817894833788-jppkugasmlill18bkti8hvg7gpttl9i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alfred.realtimelocation",
+            "certificate_hash": "69f8ce6320f930743af665a38aa2458d15a22352"
+          }
+        },
+        {
+          "client_id": "817894833788-4kq5nkg1a4qh95ila0kvj6t4rinm8lfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATui7fCme2AoTf4qnjK9VXz8rae_Goj6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817894833788-4kq5nkg1a4qh95ila0kvj6t4rinm8lfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
